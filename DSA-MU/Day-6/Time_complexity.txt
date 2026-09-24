@@ -1,0 +1,9 @@
+time complexity is defined as amount of time an algorithm takes as input increases as the no of operation increases.
+
+O(1)<O(log n)<O(n)<O(nlogn)<O(n*n)<O(n*n*n)<O(2^n){exponential}<O(n!)
+
+different loops always add . nested -->multiply ..
+
+worst case:-  always choose highest degree term
+
+space complexity:---extra space need to store the alogorithm
